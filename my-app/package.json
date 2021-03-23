@@ -26,12 +26,13 @@
     "packageOverrides": {}
   },
   "devDependencies": {
+    "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@types/react-router": "latest",
     "@types/react-router-dom": "latest",
-    "@types/node": "latest",
-    "typescript": "latest",
-    "piral-cli": "latest"
+    "piral-cli": "latest",
+    "piral-cli-webpack": "^0.12.4",
+    "typescript": "latest"
   }
 }
